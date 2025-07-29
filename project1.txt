@@ -1,0 +1,13 @@
+I want to make a RGB interactive scroller
+
+there will be a RECTANGLE
+
+|-------------------------------------------------|
+|              RGB: (x, y, z)                     |
+|                                                 |
+|-------------------------------------------------|
+
+x value scroller (0, 255)   y value scroller (0, 255)   z value scroller  (0, 255)
+
+by changing each scroller it will change the color inside of the RECTANGLE
+
